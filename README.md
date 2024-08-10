@@ -1,0 +1,1 @@
+# mini_project_sqoop_hdfs_flume_kafka
